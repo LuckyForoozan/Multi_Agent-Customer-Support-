@@ -1,0 +1,13 @@
+langgraph
+fastapi
+redis
+pydantic
+uvicorn
+openai
+python-dotenv
+groq
+datasets
+pandas
+faiss-cpu 
+sentence-transformers
+fakeredis
